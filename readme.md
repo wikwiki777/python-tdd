@@ -1,4 +1,4 @@
-# Vending Machine - Part One
+# Vending Machine
 
 Goal: Build a function that wil calculate the coins that should be returned by a vending machine to make the correct change.
 
