@@ -15,3 +15,5 @@ Goal: Build a function that wil calculate the coins that should be returned by a
 | 20 |
 | 50 |
 | 100|
+
+## Tests
